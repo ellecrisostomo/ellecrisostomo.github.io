@@ -13,7 +13,7 @@ Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/in
 
 ## Contextual Visualization 2 - Declaring Disasters
 
-<iframe src="/disasters_chart.html" width="600" height="400"></iframe>
+<iframe src="/disasters_chart.html" width="700" height="500" frameborder="0"></iframe>
 
 *Source: NOAA National Centers for Environmental Information (NCEI). 
 Land & Ocean Temperature Percentiles, 2025. 
