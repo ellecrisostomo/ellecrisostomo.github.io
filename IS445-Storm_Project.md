@@ -19,7 +19,7 @@ Global warming is the leading cause to recording changes in temperature across t
 ## Declaring Disasters
 
 <div>
-  <iframe src="/disasters_chart.html" width="800" height="500" frameborder="0"></iframe>
+  <iframe src="/disasters_chart.html" width="1000" height="400" frameborder="0"></iframe>
 </div>
 
 *Source: NOAA National Centers for Environmental Information (NCEI). 
@@ -29,7 +29,7 @@ Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/in
 ## Storm Types by State
 
 <div>
-  <iframe src="/bar_chart.html" width="800" height="600" frameborder="0"></iframe>
+  <iframe src="/bar_chart.html" width="1000" height="500" frameborder="0"></iframe>
 </div>
 Which Storms are Most Common in Our States?
 
