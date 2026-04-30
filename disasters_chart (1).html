@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.8.0"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-be9d2c0eef2c8707d80346f0f480ad85"}, "mark": {"type": "bar"}, "encoding": {"tooltip": [{"field": "incidentType", "title": "Incident Type", "type": "nominal"}, {"field": "count", "title": "Declarations", "type": "quantitative"}], "x": {"axis": {"labelAngle": 45}, "field": "incidentType", "sort": "-y", "title": "Incident Type", "type": "nominal"}, "y": {"field": "count", "title": "Number of FEMA Disaster Declarations", "type": "quantitative"}}, "height": 400, "title": "Top FEMA Disaster Declaration Incident Types", "width": 500, "$schema": "https://vega.github.io/schema/vega-lite/v5.8.0.json", "datasets": {"data-be9d2c0eef2c8707d80346f0f480ad85": [{"incidentType": "Severe Storm", "count": 19308}, {"incidentType": "Hurricane", "count": 13726}, {"incidentType": "Flood", "count": 11285}, {"incidentType": "Biological", "count": 7857}, {"incidentType": "Fire", "count": 3869}, {"incidentType": "Snowstorm", "count": 3707}, {"incidentType": "Severe Ice Storm", "count": 2956}, {"incidentType": "Tornado", "count": 1623}, {"incidentType": "Winter Storm", "count": 1353}, {"incidentType": "Drought", "count": 1292}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
