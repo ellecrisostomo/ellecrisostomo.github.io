@@ -22,9 +22,7 @@ Global warming is the leading cause to recording changes in temperature across t
   <iframe src="/disasters_chart.html" width="1000" height="400" frameborder="0"></iframe>
 </div>
 
-*Source: NOAA National Centers for Environmental Information (NCEI). 
-Land & Ocean Temperature Percentiles, 2025. 
-Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/inline-images/map-percentile-mntp-202501-202512.png*
+*Source: Federal Emergency Management Agency (FEMA). Disaster Declarations Summaries – v2. OpenFEMA. Retrieved from https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2. Data accessed 2026.https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries.csv.*
 
 ## Storm Types by State
 
