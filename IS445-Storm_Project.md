@@ -19,7 +19,7 @@ Global warming is the leading cause to recording changes in temperature across t
 ## Declaring Disasters
 
 <div>
-  <iframe src="/disasters_chart.html" width="1000" height="400" frameborder="0"></iframe>
+  <iframe src="/disasters_chart.html" width="1000" height="500" frameborder="0"></iframe>
 </div>
 
 *Source: Federal Emergency Management Agency (FEMA). Disaster Declarations Summaries – v2. OpenFEMA. Retrieved from https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2. Data accessed 2026.https://www.fema.gov/api/open/v2/DisasterDeclarationsSummaries.csv.*
