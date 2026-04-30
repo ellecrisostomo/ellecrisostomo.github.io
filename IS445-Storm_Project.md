@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Storm Events
-permalink: permalink: /projects/IS445-Storm_Project/
+permalink: /projects/IS445-Storm_Project/
 ---
 ## Contextual Visualization 1 - Land & Ocean Temperature Percentiles in 2025
 
