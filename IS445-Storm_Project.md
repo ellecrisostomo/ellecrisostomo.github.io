@@ -4,7 +4,7 @@ title: Storm Events
 permalink: /projects/IS445-Storm_Project/
 ---
 # How Storms Strike the U.S.
-*Elle Crisostomo, Jaida Dunson, Emily Fletcher, Jun Hur*
+*Elle Crisostomo, Jaida Duson, Emily Fletcher, Jun Hur*
 
 ## "Land & Ocean Temperature Percentiles in 2025"
 
