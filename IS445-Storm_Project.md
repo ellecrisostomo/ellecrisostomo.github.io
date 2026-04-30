@@ -3,10 +3,10 @@ layout: page
 title: Storm Events
 permalink: /projects/IS445-Storm_Project/
 ---
-## How Storms Strike the U.S.
+# How Storms Strike the U.S.
 Elle Crisostomo, Jaida Dunson, Emily Fletcher, Jun Hur
 
-# "Land & Ocean Temperature Percentiles in 2025"
+## "Land & Ocean Temperature Percentiles in 2025"
 
 ![Temperature Map](/map-percentile-mntp-202501-202512.png)
 
@@ -16,7 +16,7 @@ Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/in
 
 Global warming is the leading cause to recording changes in temperature across the globe. Tempartures continue to rise each year. This is impacting the storm activity signicantly. It is causing more storms to happen more rapidly and have more storms predicted per year than expected. It effects all storm types no matter the geographic location. Global warming can increase rainfall, sea level rising and hotter temparatures. In the image above, majority of the globe is warmer than average, this is not normal. The near average temperatures are mainly in the ocean.
 
-# Declaring Disasters
+## Declaring Disasters
 
 <div>
   <iframe src="/disasters_chart.html" width="800" height="400" frameborder="0"></iframe>
@@ -26,7 +26,7 @@ Global warming is the leading cause to recording changes in temperature across t
 Land & Ocean Temperature Percentiles, 2025. 
 Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/inline-images/map-percentile-mntp-202501-202512.png*
 
-# Storm Types by State
+## Storm Types by State
 
 <div>
   <iframe src="/bar_chart.html" width="800" height="400" frameborder="0"></iframe>
