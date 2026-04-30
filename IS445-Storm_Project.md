@@ -14,7 +14,7 @@ Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/in
 ## Contextual Visualization 2 - Declaring Disasters
 
 <div>
-  <iframe src="/disasters_chart%20%281%29.html" width="700" height="500" frameborder="0"></iframe>
+  <iframe src="/disasters_chart%20%281%29.html" width="800" height="400" frameborder="0"></iframe>
 </div>
 
 *Source: NOAA National Centers for Environmental Information (NCEI). 
@@ -24,5 +24,5 @@ Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/in
 ## Main Visualization – Storm Types by State
 
 <div>
-  <iframe src="/bar_chart%20%281%29.html" width="700" height="500" frameborder="0"></iframe>
+  <iframe src="/bar_chart%20%281%29.html" width="800" height="400" frameborder="0"></iframe>
 </div>
