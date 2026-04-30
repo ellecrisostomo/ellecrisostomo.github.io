@@ -35,7 +35,8 @@ While meteorological data tells us how often a storm occurred, this FEMA chart d
   <iframe src="/bar_chart.html" width="1000" height="500" frameborder="0"></iframe>
 </div>
 
-*Source: NOAA National Centers for Environmental Information (NCEI) Storm Events Database - 2025 Storm Event Details. Retrieved from https://data.noaa.gov/onestop/collections/details/e4989514-3f26-481f-9dd1-9c00781b386d Dataset: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2025_c20260323.csv.gz 
+*Source: NOAA National Centers for Environmental Information (NCEI) Storm Events Database - 2025 Storm Event Details. Retrieved from https://data.noaa.gov/onestop/collections/details/e4989514-3f26-481f-9dd1-9c00781b386d Dataset: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2025_c20260323.csv.gz* 
+
 Which Storms are Most Common in Our States?
 
 This interactive chart answers a critical question for every community that "Which weather hazards should we prioritize our resources for?" By clicking the 'Select State' dropdown, you can explore the top 10 storm types for any state impacted in 2025. This provides essential data for both local governments and residents to determine where mitigation of the disaster budgets and emergency preparations can be utilized most efficiently. For instance, if we look at Illinois, "Thunderstorm Wind" stands out as the overwhelmingly dominant threat with nearly 1,000 recorded events. While "Hail" is the second most frequent hazard with approximately 300 cases, it is relatively minor compared to the volume of thunderstorm wind. Most other storm types in the state maintain a much lower, steady frequency. This specific data highlights that for Illinois, focusing on infrastructure resilience against wind damage is a much more effective strategy than preparing for all storm types equally.
