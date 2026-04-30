@@ -19,7 +19,7 @@ Global warming is the leading cause to recording changes in temperature across t
 ## Declaring Disasters
 
 <div>
-  <iframe src="/disasters_chart.html" width="800" height="400" frameborder="0"></iframe>
+  <iframe src="/disasters_chart.html" width="800" height="600" frameborder="0"></iframe>
 </div>
 
 *Source: NOAA National Centers for Environmental Information (NCEI). 
