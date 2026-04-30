@@ -15,6 +15,7 @@ Land & Ocean Temperature Percentiles, 2025.
 Dataset: NOAAGlobalTemp v6.0.0. https://www.ncei.noaa.gov/sites/default/files/inline-images/map-percentile-mntp-202501-202512.png*
 
 What is Happening Globally?
+
 Global warming is the leading cause of temperature changes across the globe. Temperatures continue to rise each year. This is significantly impacting storm activity. It is causing more storms to occur more rapidly and more storms to be predicted per year than expected. It affects all storm types, no matter the geographic location. Global warming can increase rainfall, sea level rise, and hotter temperatures. In the image above, nearly all parts of the globe are warmer than average. This is not normal. While more of the "near-average" temperatures are located within the ocean, so much of the world's land has reached significant highs, now entering uncharted territory. With new records come new, unpredictable, and dangerous changes in the weather. While this is a global climate crisis, how might this impact the United States, specifically?
 
 ## Declaring Disasters
