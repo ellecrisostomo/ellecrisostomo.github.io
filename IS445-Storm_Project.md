@@ -7,11 +7,12 @@ permalink: /projects/IS445-Storm_Project/
 *Elle Crisostomo, Jaida Duson, Emily Fletcher, Jun Hur*
 
 ## Storm Types by State
-
+Select a state from the dropdown to see its 10 most common storm types in 2025, and how frequently they occurred. 
 <div>
   <iframe src="/bar_chart.html" width="1000" height="500" frameborder="0"></iframe>
 </div>
 
+Click on a storm type bar to show where those storms occurred most frequently across the United States.
 <div>
   <iframe src="/storms_dashboard.html" width="2000" height="900" frameborder="0"></iframe>
 </div>
