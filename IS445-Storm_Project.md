@@ -9,12 +9,12 @@ permalink: /projects/IS445-Storm_Project/
 ## Storm Types by State
 Select a state from the dropdown to see its 10 most common storm types in 2025, and how frequently they occurred. 
 <div>
-  <iframe src="/bar_chart.html" width="2000" height="900" frameborder="0"></iframe>
+  <iframe src="/bar_chart.html" width="2000" height="500" frameborder="0"></iframe>
 </div>
 
 Click on a storm type bar to show where those storms occurred most frequently across the United States.
 <div>
-  <iframe src="/storms_dashboard.html" width="2000" height="500" frameborder="0"></iframe>
+  <iframe src="/storms_dashboard.html" width="2000" height="900" frameborder="0"></iframe>
 </div>
 
 *Source: NOAA National Centers for Environmental Information (NCEI) Storm Events Database - 2025 Storm Event Details. Retrieved from https://data.noaa.gov/onestop/collections/details/e4989514-3f26-481f-9dd1-9c00781b386d Dataset: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2025_c20260323.csv.gz* 
