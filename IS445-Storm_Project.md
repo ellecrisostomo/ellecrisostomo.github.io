@@ -13,7 +13,7 @@ permalink: /projects/IS445-Storm_Project/
 </div>
 
 <div>
-  <iframe src="/storms_dashboard.html" width="1000" height="900" frameborder="0"></iframe>
+  <iframe src="/storms_dashboard.html" width="2000" height="900" frameborder="0"></iframe>
 </div>
 
 *Source: NOAA National Centers for Environmental Information (NCEI) Storm Events Database - 2025 Storm Event Details. Retrieved from https://data.noaa.gov/onestop/collections/details/e4989514-3f26-481f-9dd1-9c00781b386d Dataset: https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/StormEvents_details-ftp_v1.0_d2025_c20260323.csv.gz* 
